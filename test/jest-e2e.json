@@ -1,0 +1,7 @@
+{
+  "moduleFileExtensions": ["js", "json"],
+  "rootDir": "./e2e",
+  "testEnvironment": "node",
+  "testRegex": ".e2e-spec.js$",
+  "globalSetup": "<rootDir>/../scripts/start.js"
+}
